@@ -1,0 +1,56 @@
+.container {
+    text-align: center;
+}
+
+body {
+    color: white;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1042%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(55%2c 52%2c 60%2c 1)'%3e%3c/rect%3e%3crect width='192' height='192' clip-path='url(%26quot%3b%23SvgjsClipPath1043%26quot%3b)' x='96.16' y='375.38' fill='url(%26quot%3b%23SvgjsPattern1044%26quot%3b)' transform='rotate(248.94%2c 192.16%2c 471.38)'%3e%3c/rect%3e%3cpath d='M901.77 439.89a5.6 5.6 0 1 0 10.32-4.36 5.6 5.6 0 1 0-10.32 4.36zM916.51 433.66a5.6 5.6 0 1 0 10.31-4.36 5.6 5.6 0 1 0-10.31 4.36zM931.24 427.43a5.6 5.6 0 1 0 10.32-4.36 5.6 5.6 0 1 0-10.32 4.36zM945.98 421.21a5.6 5.6 0 1 0 10.32-4.36 5.6 5.6 0 1 0-10.32 4.36z' stroke='rgba(66%2c 121%2c 114%2c 1)' stroke-width='1.12' stroke-dasharray='2%2c 2'%3e%3c/path%3e%3cpath d='M482.51 469.7 L402.06 478.95L491.61506538691134 523.6550653869114z' fill='rgba(48%2c 93%2c 88%2c 1)'%3e%3c/path%3e%3crect width='120' height='120' clip-path='url(%26quot%3b%23SvgjsClipPath1045%26quot%3b)' x='1132.04' y='336.23' fill='url(%26quot%3b%23SvgjsPattern1046%26quot%3b)' transform='rotate(69.29%2c 1192.04%2c 396.23)'%3e%3c/rect%3e%3cpath d='M379.89 193.76L387.97 203.69 380.06 213.76 388.14 223.69 380.23 233.76 388.31 243.69 380.4 253.76M371.89 193.83L379.97 203.76 372.06 213.83 380.14 223.76 372.23 233.83 380.31 243.76 372.4 253.82' stroke='rgba(100%2c 182%2c 172%2c 1)' stroke-width='1' stroke-dasharray='2%2c 2'%3e%3c/path%3e%3cpath d='M1363.57 1.82a5.6 5.6 0 1 0 2.61 10.89 5.6 5.6 0 1 0-2.61-10.89zM1367.3 17.37a5.6 5.6 0 1 0 2.61 10.9 5.6 5.6 0 1 0-2.61-10.9zM1371.03 32.93a5.6 5.6 0 1 0 2.61 10.89 5.6 5.6 0 1 0-2.61-10.89zM1374.76 48.49a5.6 5.6 0 1 0 2.61 10.89 5.6 5.6 0 1 0-2.61-10.89z' stroke='rgba(66%2c 121%2c 114%2c 1)' stroke-width='1.04' stroke-dasharray='3%2c 2'%3e%3c/path%3e%3crect width='324' height='324' clip-path='url(%26quot%3b%23SvgjsClipPath1047%26quot%3b)' x='76.26' y='22.37' fill='url(%26quot%3b%23SvgjsPattern1048%26quot%3b)' transform='rotate(336.98%2c 238.26%2c 184.37)'%3e%3c/rect%3e%3cpath d='M545.9100000000001 249.81 L635.6800000000001 214.67000000000002L644.9793393703803 286.4243393703802z' stroke='rgba(48%2c 93%2c 88%2c 1)' stroke-width='1' stroke-dasharray='4%2c 4'%3e%3c/path%3e%3crect width='262.64000000000004' height='262.64000000000004' clip-path='url(%26quot%3b%23SvgjsClipPath1049%26quot%3b)' x='172.5' y='138.67' fill='url(%26quot%3b%23SvgjsPattern1050%26quot%3b)' transform='rotate(312.26%2c 303.82%2c 269.99)'%3e%3c/rect%3e%3cpath d='M975.17 134.24 L1111.29 113L1125.348599009298 205.73859900929784z' fill='rgba(100%2c 182%2c 172%2c 1)'%3e%3c/path%3e%3crect width='360' height='360' clip-path='url(%26quot%3b%23SvgjsClipPath1051%26quot%3b)' x='749.7' y='-90.55' fill='url(%26quot%3b%23SvgjsPattern1052%26quot%3b)' transform='rotate(267.53%2c 929.7%2c 89.45)'%3e%3c/rect%3e%3cpath d='M512.79 71.02L519.1 82.16 509.61 90.76 515.92 101.91 506.43 110.51 512.74 121.65 503.25 130.25M504.89 69.74L511.2 80.89 501.71 89.49 508.02 100.63 498.53 109.24 504.84 120.38 495.36 128.98' stroke='rgba(100%2c 182%2c 172%2c 1)' stroke-width='1.68'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1042'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1044'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(48%2c 93%2c 88%2c 1)' fill='none' stroke-width='1.59'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1043'%3e%3ccircle r='48' cx='192.16' cy='471.38'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1046'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(48%2c 93%2c 88%2c 1)' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1045'%3e%3ccircle r='30' cx='1192.04' cy='396.23'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1048'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(100%2c 182%2c 172%2c 1)' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1047'%3e%3ccircle r='81' cx='238.26' cy='184.37'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='9.38' height='9.38' patternUnits='userSpaceOnUse' id='SvgjsPattern1050'%3e%3cpath d='M0 9.38L4.69 0L9.38 9.38' stroke='rgba(48%2c 93%2c 88%2c 1)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1049'%3e%3ccircle r='65.66000000000001' cx='303.82' cy='269.99'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='360' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1052'%3e%3crect width='360' height='3' x='0' y='0' fill='rgba(48%2c 93%2c 88%2c 1)'%3e%3c/rect%3e%3crect width='360' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1051'%3e%3ccircle r='90' cx='929.7' cy='89.45'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
+    background-size: cover;
+    background-position: center;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container label {
+    margin: 5px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    margin: 10px;
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+.updateBtn {
+    width: 8rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    font-size: 1.15rem;
+    border-radius: 45px;
+    font-weight: 650;
+    border: rgb(100, 182, 172) 2px solid;
+    background-color: rgba(0, 0, 0, 0);
+    color: white
+}
+
+.updateBtn:hover {
+    cursor: pointer;
+    background-color: white;
+    color: rgb(100, 182, 172);
+    border: white;
+}
